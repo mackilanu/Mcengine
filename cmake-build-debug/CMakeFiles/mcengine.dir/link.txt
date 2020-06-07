@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -g  -rdynamic CMakeFiles/mcengine.dir/main.cpp.o CMakeFiles/mcengine.dir/Game.cpp.o  -o mcengine  -lSDL2 -lSDL2_image -lSDL2 -lSDL2_image 

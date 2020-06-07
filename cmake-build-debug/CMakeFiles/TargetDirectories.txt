@@ -1,0 +1,3 @@
+/home/marcus/CLionProjects/mcengine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marcus/CLionProjects/mcengine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marcus/CLionProjects/mcengine/cmake-build-debug/CMakeFiles/mcengine.dir

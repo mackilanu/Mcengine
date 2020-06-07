@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcus/CLionProjects/mcengine/Game.cpp
+Game.hpp
+/home/marcus/CLionProjects/mcengine/Game.hpp
+
+/home/marcus/CLionProjects/mcengine/Game.hpp
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+iostream
+-
+
