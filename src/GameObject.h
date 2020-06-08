@@ -8,6 +8,7 @@ public:
     ~GameObject();
     void Update();
     void Render();
+    void Move(int event);
 
 private:
     int xpos;

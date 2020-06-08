@@ -53,6 +53,9 @@ void::Game::handleEvents()
         case SDL_QUIT:
             isRunning = false;
             break;
+        case SDL_KEYDOWN:
+            player->Move(event.key.keysym.sym);
+            break;
         default:
             break;
     }
@@ -62,7 +65,6 @@ void Game::update()
 {
     cnt++;
     player->Update();
-    enemy->Update();
     std::cout << cnt << std::endl;
 }
 
