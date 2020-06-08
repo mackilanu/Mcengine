@@ -27,7 +27,6 @@ void GameObject::Move(int event)
 {
     switch (event)
     {
-
         case SDLK_LEFT:  xpos -= 10; break;
 
         case SDLK_RIGHT: xpos += 10; break;
